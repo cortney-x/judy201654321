@@ -1,0 +1,22 @@
+{
+  "name": "judy201654321",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cortney-x/judy201654321.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "scott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cortney-x/judy201654321/issues"
+  },
+  "homepage": "https://github.com/cortney-x/judy201654321#readme"
+}
